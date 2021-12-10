@@ -1,8 +1,8 @@
 {
-  "name": "auden2",
+  "name": "auden",
   "description": "Auden Ghost Theme",
   "demo": "",
-  "version": "1.6.2",
+  "version": "1.6.1",
   "engines": {
     "ghost": ">=3.0.0",
     "ghost-api": "v3"
